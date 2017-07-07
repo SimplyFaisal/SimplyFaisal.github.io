@@ -1,0 +1,14 @@
+@import 'pygment.css';
+
+p {
+    line-height: 1.5;
+}
+
+.footer {
+    margin-bottom: 0;
+}
+
+/* Override background color for code blocks */
+pre {
+    background-color: black;
+}
